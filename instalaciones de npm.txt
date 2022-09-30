@@ -1,0 +1,7 @@
+npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+npm i express
+npm i faker
+npm audit fix --force
+npm i @hapi/boom
+npm i joi
+npm i cors

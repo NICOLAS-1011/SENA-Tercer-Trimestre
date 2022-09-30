@@ -1,0 +1,5 @@
+que es req y res
+cuales son los metodos de req y res y para que sirven 
+explique que es el principio de responsabilidad unica o single responsability proses
+que es express. se puede usar una herramienta diferente para el mismo proposito?
+si no uso arquitectura clean como imagina que quedaria el codigo

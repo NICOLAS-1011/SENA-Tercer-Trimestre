@@ -1,0 +1,9 @@
+1 Sincronizar github con VS 
+2 descargar heroku desde pagina
+3 Set-ExecutionPolicy -Scope CurrentUser unrestricted
+4 Get-ExecutionPolicy -list
+3 npm i heroku
+4 heroku login
+5 heroku create
+6 git remote -v
+7 git push heroku main
